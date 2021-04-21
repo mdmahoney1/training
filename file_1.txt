@@ -2,3 +2,6 @@ this is new before line 1 for branching
 here is line 1
 here is line 2
 here is line 3 and now i've added to line 3
+Gabe's line 1
+Gabe's line 2
+Gabe's line 3
